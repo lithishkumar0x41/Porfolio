@@ -44,7 +44,7 @@ function enterKey(e) {
     commands.push(command.innerHTML);
     git = commands.length;
     addLine(
-      'visitor@aterm.com:~$ <span class="command">' +
+      'visitor@lithishkumar.portfolio:~$ <span class="command">' +
         command.innerHTML +
         '</span>',
       'liner no-animation',
