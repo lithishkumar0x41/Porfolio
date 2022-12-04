@@ -66,7 +66,7 @@ b {
 }
 #liner::before {
   color: var(--liner-color);
-  content: 'visitor@aterm.com:~$';
+  content: 'visitor@lithishkumar.portfolio:~$';
 }
 @keyframes show {
   from {
