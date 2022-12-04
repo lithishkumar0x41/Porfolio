@@ -57,7 +57,7 @@ theme = [
 ];
 
 help = [
-  '<span class="command">about</span>              Who is alvaldes?',
+  '<span class="command">about</span>              Who is Lithish Kumar?',
   '<span class="command">banner</span>             Display the header',
   '<span class="command">clear | cls</span>        Clear the teminal',
   '<span class="command">date</span>               Display the actual date',
