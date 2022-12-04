@@ -26,7 +26,7 @@ let existCommands = [
   'weather',
 ];
 
-about = ["Hello, I'm Lithish Kumar👋"];
+about = ["Hello, I'm Lithish Kumar👋","Professional Googler"];
 
 social = [
   'twitter           <a href="' +
