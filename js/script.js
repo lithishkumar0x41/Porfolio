@@ -1,7 +1,7 @@
 var textarea = $('.term');
 var speed = 50; //Writing speed in milliseconds
 var text = 'sh andrew_website.sh';
-alert(1);
+
 var i = 0;
 
 runner();
