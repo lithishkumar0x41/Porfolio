@@ -27,6 +27,17 @@ pre {
   padding-left: 20px;
 }
 
+.term1 {
+  font-family: monospace;
+  color: #fff;
+  opacity: 0.8;
+  font-size: 2em;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+
 .term:after {
   content: "_";
   opacity: 1;
