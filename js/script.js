@@ -1,5 +1,5 @@
 var textarea = $('.term');
-var speed = 50; //Writing speed in milliseconds
+var speed = 200; //Writing speed in milliseconds
 var text = 'sh portfolio.sh';
 
 var i = 0;
