@@ -1,0 +1,41 @@
+{
+  "id": "/",
+  "name": "Lithish Kumar | Pentester",
+  "short_name": "Lithish Kumar",
+  "description": "Portfolio Website of Lithish Kumar | Pentester",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#860dfe",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./favicon.ico",
+      "sizes": "48x48"
+    },
+    {
+      "src": "./assets/icons/favicon-16x16.png",
+      "type": "image/png",
+      "sizes": "16x16",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icons/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "purpose": "any"
+    },
+    {
+      "src": "./assets/icons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./assets/icons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}
